@@ -10,6 +10,8 @@ https://www.cisco.com/en/US/docs/switches/lan/catalyst2900xl_3500xl/releasesa6/h
 
 ![image](https://github.com/user-attachments/assets/84444fbc-595f-4f16-88f3-63a315818a38)
 
+Rozebráním a kontrolou switche jsem zjistil, kde je závada a proč je switch nefunkční.
+
 Úvodní video:
 https://drive.google.com/file/d/1adIZYwoME0gswzlwd5LDw2LeDNyxUI8c/view?usp=sharing
 
