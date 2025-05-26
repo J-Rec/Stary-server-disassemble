@@ -9,4 +9,18 @@ https://www.cisco.com/en/US/docs/switches/lan/catalyst2900xl_3500xl/releasesa6/h
 
 ![image](https://github.com/user-attachments/assets/84444fbc-595f-4f16-88f3-63a315818a38)
 
-Jen co se k switch dostanu, rozeberu ho, popíšu všechny důležité součásti a natočím o tom video. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
